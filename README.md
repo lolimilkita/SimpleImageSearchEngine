@@ -2,4 +2,4 @@
 
 simple image processing using VGG16
 
-<img src="https://drive.google.com/file/d/1fs5olRtfwrwIJuAPbi-seye_lIuCXatd/view?usp=sharing" width="450px" height="auto">
+<img src="https://github.com/lolimilkita/SimpleImageSearchEngine/blob/master/img/2021-12-15.png" width="450px" height="auto">
